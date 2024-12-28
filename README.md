@@ -60,7 +60,9 @@ RegisterNumber:24900164
 ![Screenshot 2024-12-12 153824](https://github.com/user-attachments/assets/5c3e2f8b-dc63-4b18-9d50-bfd529664255)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![Screenshot 2024-12-12 153903](https://github.com/user-attachments/assets/b58ded76-3354-444f-a9f2-67a145f34f06)
+
+![Screenshot (134)](https://github.com/user-attachments/assets/e9e6de43-0f80-4889-b3fa-897d6c9b64f5)
+
 
 **RESULTS**
 Thus the serial in and serial out Register expression is verified using Quartus software
